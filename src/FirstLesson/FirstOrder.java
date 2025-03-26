@@ -1,3 +1,5 @@
+package FirstLesson;
+
 public class FirstOrder {
     public static void main(String[] args) {
         int a = 3;
